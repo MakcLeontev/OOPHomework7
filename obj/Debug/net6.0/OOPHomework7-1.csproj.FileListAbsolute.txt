@@ -1,0 +1,15 @@
+D:\Обучение\ООП Java\OOPHomework7-1\bin\Debug\net6.0\OOPHomework7-1.exe
+D:\Обучение\ООП Java\OOPHomework7-1\bin\Debug\net6.0\OOPHomework7-1.deps.json
+D:\Обучение\ООП Java\OOPHomework7-1\bin\Debug\net6.0\OOPHomework7-1.runtimeconfig.json
+D:\Обучение\ООП Java\OOPHomework7-1\bin\Debug\net6.0\OOPHomework7-1.dll
+D:\Обучение\ООП Java\OOPHomework7-1\bin\Debug\net6.0\OOPHomework7-1.pdb
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.csproj.AssemblyReference.cache
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.AssemblyInfoInputs.cache
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.AssemblyInfo.cs
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.csproj.CoreCompileInputs.cache
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.dll
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\refint\OOPHomework7-1.dll
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.pdb
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\OOPHomework7-1.genruntimeconfig.cache
+D:\Обучение\ООП Java\OOPHomework7-1\obj\Debug\net6.0\ref\OOPHomework7-1.dll
